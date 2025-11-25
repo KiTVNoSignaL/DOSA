@@ -25,6 +25,12 @@
       "expire_date": "2026-04-15"
     },
     {
+      "device_id": "5c88281ab9fb0d26",
+      "username": "KiNoy",
+      "password": "00000",
+      "expire_date": "2025-11-24"
+    },
+    {
       "device_id": "testdevice11223344",
       "username": "user",
       "password": "pass",
