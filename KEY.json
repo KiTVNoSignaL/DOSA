@@ -1,13 +1,13 @@
 {
   "showDialog": true,
   "title": "🔐  D.O.S.A™",
-  "description": "📌 DOSA : DimanO Samiang bisA",
+  "description": "[ DOSA : DimanO Samiang bisA ]",
   "button": "LOGIN ✨",
   "toast": "✅ Successfully Logged In!",
   "renewUrl": "https://t.me/rasyid_22",
   "devices": [
     {
-      "device_id": "7fdf9500a0590977_",
+      "device_id": "7fdf9500a0590977",
       "username": "KiNoy",
       "password": "00000",
       "expire_date": "2222-11-22"
