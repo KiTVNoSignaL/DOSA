@@ -1,8 +1,8 @@
 {
   "showDialog": true,
-  "title": "🔐  D.O.S.A™",
-  "description": "[ DOSA : DimanO Samiang bisA ]",
-  "button": "LOGIN ✨",
+  "title": "🔐  𝗗.𝗢.𝗦.𝗔™",
+  "description": "[ 𝗗.𝗢.𝗦.𝗔 : 🅳𝗶𝗺𝗮𝗻🅞 🆂𝗮𝗺𝗶𝗮𝗻𝗴 𝗯𝗶𝘀🅰 ]",
+  "button": "𝗟𝗢𝗚𝗜𝗡 ✨",
   "toast": "✅ Successfully Logged In!",
   "renewUrl": "https://t.me/rasyid_22",
   "devices": [
