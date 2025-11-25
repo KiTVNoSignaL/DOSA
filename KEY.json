@@ -8,9 +8,15 @@
   "devices": [
     {
       "device_id": "7fdf9500a0590977",
-      "username": "dpmods",
+      "username": "KiNoy",
+      "password": "00000",
+      "expire_date": "2222-11-22"
+    },
+    {
+      "device_id": "7fdf9500a0590977",
+      "username": "KiNoy",
       "password": "12345",
-      "expire_date": "2025-11-26"
+      "expire_date": "2025-11-24"
     },
     {
       "device_id": "abcdef9876543210",
