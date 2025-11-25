@@ -3,19 +3,19 @@
   "title": "🔐  𝗗.𝗢.𝗦.𝗔™",
   "description": "[ 𝗗.𝗢.𝗦.𝗔 : 🅳𝗶𝗺𝗮𝗻🅞 🆂𝗮𝗺𝗶𝗮𝗻𝗴 𝗯𝗶𝘀🅰 ]",
   "button": "LOGIN ✨",
-  "toast": "✅ Successfully Logged In!",
+  "toast": "✅ Successfully Logged In !",
   "renewUrl": "https://t.me/rasyid_22",
   "devices": [
     {
-      "device_id": "7fdf9500a0590977_",
+      "device_id": "7fdf9500a0590977",
       "username": "KiNoy",
-      "password": "00000",
+      "password": "xxxxx",
       "expire_date": "2222-11-22"
     },
     {
-      "device_id": "7fdf9500a0590977",
-      "username": "KiNoy",
-      "password": "12345",
+      "device_id": "5c88281ab9fb0d26",
+      "username": "ReNo 8",
+      "password": "00000",
       "expire_date": "2025-11-24"
     },
     {
@@ -23,12 +23,6 @@
       "username": "demo",
       "password": "demo123",
       "expire_date": "2026-04-15"
-    },
-    {
-      "device_id": "5c88281ab9fb0d26",
-      "username": "KiNoy",
-      "password": "00000",
-      "expire_date": "2025-11-24"
     },
     {
       "device_id": "testdevice11223344",
