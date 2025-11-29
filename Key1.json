@@ -1,0 +1,46 @@
+{
+  "showDialog": true,
+  "title": "🔐  𝗗.𝗢.𝗦.𝗔™",
+  "description": ">>> 🅳𝗶𝗺𝗮𝗻🅞 🆂𝗮𝗺𝗶𝗮𝗻𝗴 𝗯𝗶𝘀🅰 <<<",
+  "button": "LOGIN ✨",
+  "toast": "𝙎𝙚𝙡𝙖𝙢𝙖𝙩 𝚋𝚎𝚛-𝗗𝗢𝗦𝗔 👻",
+  "renewUrl": "https://t.me/rasyid_22",
+  "devices": [
+    {
+      "device_id": "7fdf9500a0590977_",
+      "username": "KiNoy",
+      "password": "xxxxx",
+      "expire_date": "2222-11-22"
+    },
+    {
+      "device_id": "5c88281ab9fb0d26_",
+      "username": "ReNo 8",
+      "password": "00000",
+      "expire_date": "2026-01-01"
+    },
+    {
+      "device_id": "f2b44f0e14c2b5a2_",
+      "username": "ReNo 8 Clone",
+      "password": "xxxxx",
+      "expire_date": "2025-11-25"
+    },
+    {
+      "device_id": "c770c741a0928561",
+      "username": "Torkis",
+      "password": "12345",
+      "expire_date": "2026-12-31"
+    },
+    {
+      "device_id": "abcdef9876543210",
+      "username": "demo",
+      "password": "demo123",
+      "expire_date": "2026-04-15"
+    },
+    {
+      "device_id": "testdevice11223344",
+      "username": "user",
+      "password": "pass",
+      "expire_date": "2026-06-01"
+    }
+  ]
+}
