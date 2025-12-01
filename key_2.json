@@ -13,22 +13,28 @@
       "expire_date": "2222-11-22"
     },
     {
+      "device_id": "6b433ab9d6b1e9e4",
+      "username": "Noy",
+      "password": "*****",
+      "expire_date": "2025-11-31"
+    },
+    {
       "device_id": "5c88281ab9fb0d26",
       "username": "ReNo 8",
-      "password": "00000",
+      "password": "xxxxx",
       "expire_date": "2026-01-01"
     },
     {
       "device_id": "f2b44f0e14c2b5a2",
       "username": "ReNo 8 Clone",
-      "password": "xxxxx",
-      "expire_date": "2025-11-25"
+      "password": "*****",
+      "expire_date": "2025-11-31"
     },
     {
       "device_id": "c770c741a0928561",
       "username": "Torkis",
       "password": "12345",
-      "expire_date": "2026-12-31"
+      "expire_date": "2026-01-01"
     },
     {
       "device_id": "cc5ee3b148925996",
