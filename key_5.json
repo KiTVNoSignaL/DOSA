@@ -1,11 +1,11 @@
 [
   {
     "build_id": "MAINTENANCE",
-    "status": "active",
+    "status": "inactive",
     "message": "We're currently undergoing scheduled maintenance. Please check back later."
   },
   {
-    "build_id": "TQ3A.230901.001",
+    "build_id": "TQ3A.230901.001_",
     "date": "2027-10-15"
   },
   {
