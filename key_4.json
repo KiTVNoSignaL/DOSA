@@ -1,11 +1,11 @@
 {
   "dialog_config": {
-    "title": "Premium D.O.S.A Login ",
+    "title": "🔐  𝗗.𝗢.𝗦.𝗔™",
     "subtitle": "Please enter your credentials or contact the administrator to activate your subscription",
     "background_color_hex": "#FFFFFF",
     "profile_image_url": "https://riot-us.com/wp-content/uploads/2025/09/Still-23-%C2%A9Copyright_-%C2%A9Koyoharu-Gotoge-_-SHUEISHA-Aniplex-ufotable.jpg",
     "button_login_text": "Login",
-    "button_contact_text": "Admin Contact",
+    "button_contact_text": "Admin",
     "admin_contact_url": "https://t.me/rasyid_22"
   },
   "status_config": {
@@ -14,16 +14,16 @@
     "force_show_enabled": false,
     "remote_check_interval_ms": 30000,
     "dialog_show_interval_ms": 7200000,
-    "auth_success_toast": "Login successful! Welcome to the premium features.",
-    "auth_expired_toast": "Subscription expired. Please renew it from admin.",
-    "auth_invalid_toast": "Invalid Username, Password, or Device ID."
+    "auth_success_toast": "𝙎𝙚𝙡𝙖𝙢𝙖𝙩 𝚋𝚎𝚛-𝗗𝗢𝗦𝗔 👻",
+    "auth_expired_toast": "expired... Please renew it from admin",
+    "auth_invalid_toast": "Invalid Username, Password, or Device ID"
   },
   "users": [
     {
       "username": "KiNoy",
       "password": "xxxxx",
       "device_id": "75e378e7-3023-48a6-897c-443fe9529118",
-      "expiry_date_utc": "2024-11-01"
+      "expiry_date_utc": "2025-12-31"
     },
     {
       "username": "user123",
