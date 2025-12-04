@@ -19,9 +19,9 @@
     }
   },
   "update_dialog": {
-    "topText": "Update Available",
+    "topText": "🧩 Update Available",
     "mainQuestion": "A new version is ready!",
-    "buttonText": "Download Now",
+    "buttonText": "⬇️ Download Now",
     "buttonClickUrl": "https://www.youtube.com/@KiTV_NoSigNaL"
   },
   "login_dialog": {
