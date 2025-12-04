@@ -1,0 +1,23 @@
+[
+  {
+    "id": "7fdf9500a0590977",
+    "username": "KiNoy",
+    "password": "xxxx",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
+    "id": "6b433ab9d6b1e9e4",
+    "username": "Noy",
+    "password": "*****",
+    "expiresAt": "2025-12-31",
+    "allowOffline": false
+  },
+  {
+    "id": "android_device_id_2",
+    "username": "user2",
+    "password": "pass2",
+    "expiresAt": "2025-11-30",
+    "allowOffline": false
+  }
+]
