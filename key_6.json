@@ -1,9 +1,9 @@
 {
-  "showOnDate": "2024-11-06T00:00:00Z",
+  "showOnDate": "2025-12-06T20:35:10Z",
   "keys": {
     "KiNoy": {
       "deviceId": "7fdf9500a0590977",
-      "expiryDate": "2024-07-09T23:59:59Z"
+      "expiryDate": "2025-12-31T23:59:59Z"
     },
     "key-for-another-user": {
       "deviceId": "0987654321fedcba",
