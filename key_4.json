@@ -2,7 +2,7 @@
   "dialog_config": {
     "title": "🔐  𝗗.𝗢.𝗦.𝗔™",
     "subtitle": "Please enter your credentials or contact the administrator to activate your subscription",
-    "background_color_hex": "#FFFAFA",
+    "background_color_hex": "#FF0000",
     "profile_image_url": "https://i.imgur.com/tiQPRMI.png",
     "button_login_text": "Login",
     "button_contact_text": "Admin",
