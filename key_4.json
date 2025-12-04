@@ -2,14 +2,14 @@
   "dialog_config": {
     "title": "🔐  𝗗.𝗢.𝗦.𝗔™",
     "subtitle": "Please enter your credentials or contact the administrator to activate your subscription",
-    "background_color_hex": "#FFFFFF",
+    "background_color_hex": "#FFFAFA",
     "profile_image_url": "https://i.imgur.com/tiQPRMI.png",
     "button_login_text": "Login",
     "button_contact_text": "Admin",
     "admin_contact_url": "https://t.me/rasyid_22"
   },
   "status_config": {
-    "maintenance_enabled": false,
+    "maintenance_enabled": true,
     "maintenance_message": "The server is currently undergoing scheduled maintenance. Please check back soon!",
     "force_show_enabled": false,
     "remote_check_interval_ms": 30000,
