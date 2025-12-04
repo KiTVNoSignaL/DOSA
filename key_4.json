@@ -9,11 +9,11 @@
     "admin_contact_url": "https://t.me/rasyid_22"
   },
   "status_config": {
-    "maintenance_enabled": false,
+    "maintenance_enabled": true,
     "maintenance_message": "The server is currently undergoing scheduled maintenance. Please check back soon!",
-    "force_show_enabled": false,
+    "force_show_enabled": true,
     "remote_check_interval_ms": 30000,
-    "dialog_show_interval_ms": 7200000,
+    "dialog_show_interval_ms": 100,
     "auth_success_toast": "𝙎𝙚𝙡𝙖𝙢𝙖𝙩 𝚋𝚎𝚛-𝗗𝗢𝗦𝗔 👻",
     "auth_expired_toast": "expired... Please renew it from admin",
     "auth_invalid_toast": "Invalid Username, Password, or Device ID"
@@ -23,7 +23,7 @@
       "username": "KiNoy",
       "password": "xxxxx",
       "device_id": "62517723-6aaf-4afd-87c7-2585034233b1",
-      "expiry_date_utc": "2025-11-31"
+      "expiry_date_utc": "2024-11-31"
     },
     {
       "username": "user123",
