@@ -2,18 +2,18 @@
   "dialog_config": {
     "title": "🔐  𝗗.𝗢.𝗦.𝗔™",
     "subtitle": "Please enter your credentials or contact the administrator to activate your subscription",
-    "background_color_hex": "#FF0000",
+    "background_color_hex": "#AFEEEE",
     "profile_image_url": "https://i.imgur.com/tiQPRMI.png",
     "button_login_text": "Login",
     "button_contact_text": "Admin",
     "admin_contact_url": "https://t.me/rasyid_22"
   },
   "status_config": {
-    "maintenance_enabled": true,
+    "maintenance_enabled": false,
     "maintenance_message": "The server is currently undergoing scheduled maintenance. Please check back soon!",
     "force_show_enabled": false,
     "remote_check_interval_ms": 30000,
-    "dialog_show_interval_ms": 7200000,
+    "dialog_show_interval_ms": 2000,
     "auth_success_toast": "𝙎𝙚𝙡𝙖𝙢𝙖𝙩 𝚋𝚎𝚛-𝗗𝗢𝗦𝗔 👻",
     "auth_expired_toast": "expired... Please renew it from admin",
     "auth_invalid_toast": "Invalid Username, Password, or Device ID"
