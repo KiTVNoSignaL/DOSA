@@ -2,10 +2,10 @@
   "dialog_config": {
     "title": "🔐  𝗗.𝗢.𝗦.𝗔™",
     "subtitle": "Please enter your credentials or contact the administrator to activate your subscription",
-    "background_color_hex": "#2F4F4F",
+    "background_color_hex": "#FFFFFF",
     "profile_image_url": "https://i.imgur.com/tiQPRMI.png",
     "button_login_text": "Login ✨",
-    "button_contact_text": "Admin 👨🏻",
+    "button_contact_text": "👨🏻 Admin",
     "admin_contact_url": "https://t.me/rasyid_22"
   },
   "status_config": {
@@ -22,7 +22,7 @@
     {
       "username": "KiNoy",
       "password": "xxxxx",
-      "device_id": "62517723-6aaf-4afd-87c7-2585034233b1",
+      "device_id": "bf23c761-eb56-4003-a830-d0ccbf0d21d8",
       "expiry_date_utc": "2024-11-31"
     },
     {
