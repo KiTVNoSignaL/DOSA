@@ -5,9 +5,9 @@
       "deviceId": "7fdf9500a0590977",
       "expiryDate": "2025-12-31T23:59:59Z"
     },
-    "key-for-another-user": {
-      "deviceId": "0987654321fedcba",
-      "expiryDate": "2025-12-01T23:59:59Z"
+    "ReNo 8": {
+      "deviceId": "5c88281ab9fb0d26",
+      "expiryDate": "2025-12-08T23:59:59Z"
     },
     "my-master-key": {
       "deviceId": "ANY",
@@ -32,7 +32,7 @@
   },
   "common_style": {
     "topIconAsset": "icon.png",
-    "topIconSpin": true,
+    "topIconSpin": false,
     "animateGradient": true,
     "buttonGradientStartColor": "#FFDAB9",
     "buttonGradientEndColor": "#E6E6FA",
