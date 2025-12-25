@@ -2,12 +2,12 @@
   "Version": "2.0",
   "Title": "UPDATE AVAILABLE",
   "Subtitle": "New Version 2.0",
-  "Features": "Fixed Bugs,Enhanced Features",
+  "Features": "Fixed Bugs,Enhanced Features,server fix, ,by KiNoy",
   "Description": "A mandatory new version is available with enhanced security, improved performance, and important fixes.",
   "BtnLater": "LATER",
   "BtnUpdate": "UPDATE",
   "Url": "https://s.id/KiTV_",
   "ForceUpdate": true,
-  "Reminder": "2h",      
-  "BtnTimer": 0         
+  "Reminder": "2h",
+  "BtnTimer": 1
 }
