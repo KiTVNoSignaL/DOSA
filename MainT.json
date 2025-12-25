@@ -1,11 +1,11 @@
 {
-  "ShowDate": "25/12/25",
+  "ShowDate": "22/12/25",
   "Title": "Update Available",
   "Subtitle": "v4.5 • Critical Patch",
   "WhatsNew": "• Upgrading Game Servers\n• Fixing Login Issues\n• New UI Added\n• Vpn Proxy Removed\n \n  \n  by KiNoy™",
   "Button1": "Update",
   "Button1Url": "https://t.me/rasyid_22",
   "2Button": false,
-  "ShowTimer": false,
+  "ShowTimer": true,
   "TargetTime": "2025-12-31 18:00:00"
 }
